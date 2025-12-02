@@ -1,0 +1,26 @@
+{
+    "Lucas Guerra": {
+        "salt": "80276a6ce5f70b4651dae5ca1ae7f6de",
+        "hash_senha": "aed940374582c1d5a1d1fb13674f94d996119d00fb2eaf2d085f348effc3264f"
+    },
+    "Diego": {
+        "salt": "51eb816b6909d613797fa23759030c7f",
+        "hash_senha": "e7ca057b17edb89b8902d3a386535890c3677ea9452ab4bc8d85057d06f8ba85"
+    },
+    "Diegs": {
+        "salt": "4eff4501899907d9d4e80d0be9af3da4",
+        "hash_senha": "46b33509959717c8df5353ff790d4003a131616065cf6e398bbbff24e47d472b"
+    },
+    "Lucas": {
+        "salt": "c51e2c5e1054d7eb4a1940be354cefa5",
+        "hash_senha": "579f8a567d46d53ae1b051036822745519cdd8feca1c6400cfa4d72764b75415"
+    },
+    "Dolly": {
+        "salt": "6c05de6b991df41754f3b20a79f8ca95",
+        "hash_senha": "eb6593a551abe76473add3acd78ee05c89958689fdc988db1b430531f38187e8"
+    },
+    "Lucas\r": {
+        "salt": "e84837993b9884c1049412d393442e84",
+        "hash_senha": "666c841fb43931e0f65a4586286553ce7c138e53fdbc63bb66acfa95e702be94"
+    }
+}
