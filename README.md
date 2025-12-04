@@ -77,3 +77,9 @@ Execute o Jogo:
 
 python main_pygame.py
 Crie sua conta e comece a conquistar o universo!
+
+
+Aqui segue uma **Captura de Tela** in-game:
+
+<img width="494" height="787" alt="image" src="https://github.com/user-attachments/assets/d6997a41-f343-40c9-ac1f-68d1009fb344" />
+
